@@ -3,10 +3,12 @@ Atividade Avaliativa II
 Reunidos em grupos de até 5 pessoas, os alunos devem elaborar e implementar o código de um Jogo da Velha. O código fonte da aplicação deve ser enviado em arquivo texto,
 podendo também ser utilizado o arquivo do programa de desenvolvimento recomendado nas orientações em vídeo disponíveis no matéria da disciplina(links abaixo).
 No arquivo de texto deve constar a identificação dos componentes do grupo.
+Jogo da velha em meu repositorio do github: https://github.com/smile-dev-Gos/FacisaJogoDaVelha
 INTEGRANTES DO GRUPO:
 GLEISON DE OLIVEIRA ADS 3 - Mat 17061
 '''
 #JOGO DA VELHA, FACISA - GLEISON DE OLIVEIRA ADS 3.
+print('Repositorio github: https://github.com/smile-dev-Gos/FacisaJogoDaVelha')
 print('  ___     _      ___   ___   ___     _  ')
 print(' | __|   /_\    / __| |_ _| / __|   /_\ ')
 print(' | _|   / _ \  | (__   | |  \__ \  / _ \ ')
